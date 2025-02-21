@@ -56,14 +56,15 @@
 
 ![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/18.png)
 
+
+4. Connecter vous sur le serveur mysql à partir de la machine via ssh
+
 ![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/19.png)
 
 ![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/20.png)
 
 ![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/21.png)
 
-
-4. Connecter vous sur le serveur mysql à partir de la machine via ssh
 
 
 
