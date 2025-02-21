@@ -36,8 +36,6 @@
 
 ![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/9.png)
 
-![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/10.png)
-
 3. mysql server sur le même serveur
 
 ![1.png](https://gitlab.com/elaeti/tplinux_tp2/-/raw/main/10.png)
